@@ -1,0 +1,8 @@
+E:\Becamex\OOPC#\StuList\StuList\StuList\bin\Debug\StuList.exe.config
+E:\Becamex\OOPC#\StuList\StuList\StuList\bin\Debug\StuList.exe
+E:\Becamex\OOPC#\StuList\StuList\StuList\bin\Debug\StuList.pdb
+E:\Becamex\OOPC#\StuList\StuList\StuList\obj\Debug\StuList.csproj.AssemblyReference.cache
+E:\Becamex\OOPC#\StuList\StuList\StuList\obj\Debug\StuList.csproj.SuggestedBindingRedirects.cache
+E:\Becamex\OOPC#\StuList\StuList\StuList\obj\Debug\StuList.csproj.CoreCompileInputs.cache
+E:\Becamex\OOPC#\StuList\StuList\StuList\obj\Debug\StuList.exe
+E:\Becamex\OOPC#\StuList\StuList\StuList\obj\Debug\StuList.pdb
